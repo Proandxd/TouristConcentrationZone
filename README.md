@@ -11,4 +11,4 @@ Terceiro, criamos uma LSTM para prever o numero de pessoas em certas grids.
 
 Apesar de ter existido um tratamento inicial geral, cada ponto teve um tratamento mais in depth conforme o problema.
 
-Este projeto foi realizado por mim(André Novo), pelo Luis Pereira, a Beatriz Correia, a Maria Pais e o Sebastião Rosalino.
+Este projeto foi realizado por mim(André Novo), pelo Luis Pereira, a Beatriz Correia e a Catarina Brito.
